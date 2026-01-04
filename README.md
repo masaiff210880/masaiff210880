@@ -1,70 +1,92 @@
-<h1 align="center"> Hello I'm Ram Surat</h1>
+<h1 align="center">
+  Hi 👋, I'm Ram Surat
+</h1>
 
-<div align="center">
-  <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="100%" height="400px"/>
-  
-</div>
+<h3 align="center">
+  Frontend Developer | React.js | Next.js | UI/UX Focused
+</h3>
 
- <br/>
-
-## 👨🏻‍💻 About Me:
-
-- 🙋‍♂️ All about me is at **[My Website](https://masaiff210880.github.io/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Projects`
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- 💓 I love designing websites and coding.
-
-<br>
-
-## 🛠️ Technologies and Tools I use:
-
-<p align="center" >
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- 
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25px"/>
- <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Responsive+UIs;Passionate+about+UI%2FUX+and+Performance" />
 </p>
 
- 
- ## 📊 My GitHub Data:
+<p align="center">
+  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="90%" height="420px" style="border-radius:12px"/>
+</p>
 
-  <div align=center>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masaiff210880&show_icons=true&locale=en" alt="dbarman8697" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masaiff210880&" alt="dbarman8697" /></p>
+## 🚀 About Me
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masaiff210880&show_icons=true&locale=en&layout=compact" alt="masaiff210880" /></p>
-  </div>
+- 👨‍💻 Frontend Developer with **2.5+ years of experience**
+- ⚛️ Specialized in **React.js, Next.js & Modern UI development**
+- 🎯 Focused on **performance, accessibility & pixel-perfect UI**
+- 🌱 Currently learning **Advanced MERN & System Design**
+- 🤝 Open to collaborating on **Frontend & Open-Source projects**
+- 💡 Believe in **clean code, reusable components & great UX**
 
-<br><br><br><br><br><br><br>
- ## ❤️ Let's get connected:
-<p>
-<div align="center" >
-<a href="https://www.linkedin.com/in/ram-surat-542877203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+🔗 Portfolio: **[My Website](https://masaiff210880.github.io/)**
 
-<a href="mailto:gmail.com/surajkumar231501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
+---
 
-</div>
+## 🧠 Frontend Skills & Tech Stack
+
+### ⚛️ Core Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui" />
+</p>
+
+### 🛠 Backend & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman,npm,netlify,vercel" />
+</p>
+
+---
+
+## ✨ What I Do Best
+
+- ⚡ Build **fast, scalable React applications**
+- 🎨 Convert **Figma → Pixel-Perfect UI**
+- 📱 Create **fully responsive & accessible layouts**
+- 🔄 API integration & state management (Redux / Context)
+- 🚀 Optimize **performance & SEO (Next.js)**
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masaiff210880&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masaiff210880&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaiff210880&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=masaiff210880&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-surat-542877203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:surajkumar231501@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 “Great UI is invisible. Great UX is unforgettable.”
 </p>
