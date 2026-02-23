@@ -40,7 +40,7 @@
 - ⚡ Focused on **performance, scalability & clean code**
 - 🤝 Open to **Frontend, Mobile & Open-Source collaborations**
 
-🌐 Portfolio: **https://masaiff210880.github.io**
+🌐 Portfolio: **https://ram-app.github.io/**
 
 ---
 
